@@ -1,4 +1,4 @@
-![](https://github.com/Ritasss/Ritasss/blob/master/about_rita.webp)
+![](https://raw.githubusercontent.com/Ritasss/Ritasss/main/about_rita.webp)
 <!--
 **Ritasss/Ritasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
